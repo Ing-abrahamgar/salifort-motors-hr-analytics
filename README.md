@@ -82,6 +82,6 @@ Datos de encuesta (posible sesgo), 20 % de filas duplicadas eliminadas, correlac
 Python · pandas · NumPy · matplotlib · seaborn · scikit-learn · Jupyter
 
 ## 📬 Contacto
-**Abraham García** · Reynosa, Tamaulipas, México · [LinkedIn: agrega tu enlace] · [Correo: agrega tu correo]
+**Abraham García** · Reynosa, Tamaulipas, México · www.linkedin.com/in/abrahamgarcia-ing · abrahamgarcia.ingindus@gmail.com
 
 *Dataset: [HR Analytics and Job Prediction (Kaggle)](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction). Proyecto con fines educativos.*
